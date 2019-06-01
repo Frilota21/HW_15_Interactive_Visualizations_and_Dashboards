@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "HW_15_Interactive_Visualizations_and_Dashboards",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
